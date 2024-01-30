@@ -1,0 +1,14 @@
+C:\Users\pipek\OneDrive\Documentos\code_folder\platzi\curso-linq\bin\Debug\net8.0\curso-linq.exe
+C:\Users\pipek\OneDrive\Documentos\code_folder\platzi\curso-linq\bin\Debug\net8.0\curso-linq.deps.json
+C:\Users\pipek\OneDrive\Documentos\code_folder\platzi\curso-linq\bin\Debug\net8.0\curso-linq.runtimeconfig.json
+C:\Users\pipek\OneDrive\Documentos\code_folder\platzi\curso-linq\bin\Debug\net8.0\curso-linq.dll
+C:\Users\pipek\OneDrive\Documentos\code_folder\platzi\curso-linq\bin\Debug\net8.0\curso-linq.pdb
+C:\Users\pipek\OneDrive\Documentos\code_folder\platzi\curso-linq\obj\Debug\net8.0\curso-linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pipek\OneDrive\Documentos\code_folder\platzi\curso-linq\obj\Debug\net8.0\curso-linq.AssemblyInfoInputs.cache
+C:\Users\pipek\OneDrive\Documentos\code_folder\platzi\curso-linq\obj\Debug\net8.0\curso-linq.AssemblyInfo.cs
+C:\Users\pipek\OneDrive\Documentos\code_folder\platzi\curso-linq\obj\Debug\net8.0\curso-linq.csproj.CoreCompileInputs.cache
+C:\Users\pipek\OneDrive\Documentos\code_folder\platzi\curso-linq\obj\Debug\net8.0\curso-linq.dll
+C:\Users\pipek\OneDrive\Documentos\code_folder\platzi\curso-linq\obj\Debug\net8.0\refint\curso-linq.dll
+C:\Users\pipek\OneDrive\Documentos\code_folder\platzi\curso-linq\obj\Debug\net8.0\curso-linq.pdb
+C:\Users\pipek\OneDrive\Documentos\code_folder\platzi\curso-linq\obj\Debug\net8.0\curso-linq.genruntimeconfig.cache
+C:\Users\pipek\OneDrive\Documentos\code_folder\platzi\curso-linq\obj\Debug\net8.0\ref\curso-linq.dll
