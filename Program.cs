@@ -37,6 +37,8 @@ LinqQueries queries = new LinqQueries();
 // var lookupDict = queries.FirstCharTitleDict();
 // ImprimirDict(lookupDict, 'S');
 
+
+// To print data given as a simple IEnumerable
 ImprimirValores(queries.SearchOverYearPage(2005,500));
 
 void ImprimirValores(IEnumerable<Book> listdelibros)
@@ -48,6 +50,7 @@ void ImprimirValores(IEnumerable<Book> listdelibros)
     }
 }
 
+// To print data given as a grouped IEnumerable
 void ImprimirGrupo(IEnumerable<IGrouping<int,Book>> ListadeLibros)
 {
     foreach(var grupo in ListadeLibros)
@@ -65,6 +68,7 @@ void ImprimirGrupo(IEnumerable<IGrouping<int,Book>> ListadeLibros)
 
 }
 
+// To print data given as Dictionary
 void ImprimirDict(ILookup<char,Book> BookList, char firstChar)
 {
     Console.WriteLine("{0,-60} {1,15} {2,15}\n", "Titulo", "N. Paginas", "Fecha publicacion");
